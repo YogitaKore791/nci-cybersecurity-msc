@@ -8,7 +8,7 @@
 
 |Field|Details|
 |-|-|
-|**Programme**|MSc / Postgraduate Diploma in Cybersecurity|
+|**Programme**|MSc in Cybersecurity|
 |**College**|National College of Ireland|
 
 \---
